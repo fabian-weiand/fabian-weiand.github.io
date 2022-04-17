@@ -1,6 +1,6 @@
 [Home](index.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
 
-<center><img src="CSbanner.jpg"></center>
+<center><img src="binary.jpg"></center>
 
 ## Welcome to GitHub Pages
 
