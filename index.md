@@ -1,3 +1,7 @@
+[Home](README.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
+
+<center><img src="CSbanner.jpg"></center>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fabian-weiand/fabian-weiand.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
