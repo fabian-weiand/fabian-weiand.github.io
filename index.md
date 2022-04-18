@@ -1,4 +1,4 @@
-[Home](index.md) - [Code Review](CodeReview.md) - [Data Structures and Algorithms](data_structures.md) - [Software Engineering and Design](softeng_design.md) - [Databases](databases.md)
+[Home](index.md) - [Code Review](code_review.md) - [Data Structures and Algorithms](algorithms_data_structures.md) - [Software Engineering and Design](software_design_engineering.md) - [Databases](databases.md)
 
 <center><img src="binary.jpg"></center>
 
