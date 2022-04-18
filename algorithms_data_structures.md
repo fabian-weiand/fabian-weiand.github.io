@@ -1,6 +1,6 @@
 [Home](index.md) - [Code Review](code_review.md) - [Data Structures and Algorithms](algorithms_data_structures.md) - [Software Engineering and Design](software_design_engineering.md) - [Databases](databases.md)
 
-## Algorithms and Data Structures
+# Algorithms and Data Structures
 
 ### About
 
