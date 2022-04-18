@@ -1,6 +1,6 @@
-###Project 1
+## Project 1
 
-##Software Design and Engineering
+# Software Design and Engineering
 
 This artifact is a full stack application for an animal shelter using Jupyter, Python, and MongoDB which was built in Client Server Development class during program. 
 It showcases my skills both for front and back-end development as well as how to connect the two using a python module. 
