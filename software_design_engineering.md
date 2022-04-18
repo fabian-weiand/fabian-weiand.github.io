@@ -339,5 +339,5 @@ class AnimalShelter(object):
         return False
 ```
 ### Screenshots
-<img src="filter2.jpg">
-<img src="filter3.jpg">
+<img src="filter2.png">
+<img src="filter3.png">
