@@ -2,7 +2,7 @@
 
 <center><img src="binary.jpg"></center>
 
-## Self Assessment
+# Self Assessment
 My time spent in the Computer Science Program at Southern New Hampshire University has allowed me to develop numerous skills and build my knowledge of programming languages, hardware and software development, and even important teamwork techniques. With the experience earned throughout this program and the formation of this ePortfolio, I was able to showcase my use of program languages in the forms of C++, Java, HTML, and SQL. I was also exposed to different operating systems as well as different testing techniques. All the knowledge and techniques I have absorbed over the last two years has prepared me for a career in computer science of information technology.
 
 When it comes to collaborating in a team environment, I learned the importance of communication in the CS-250 Software Development Lifecycle course. Though the focus was on software development, lessons were learned on how important collaboration between team members is crucial to the successful development of a project. It allows me as a team member to know my role and my peer’s role to effectively communicate the right information to the correct team member. This practice saves money and time for a team and keeps projects on a proper timetable. This is where you can keep stakeholders happy as computer science is a business at the end of the day. You can think of stakeholders like investors and clients who fund the projects and work of computer science employees. Keeping them happy and secure is important so implementing these techniques is important to keep projects on time and budget. 
