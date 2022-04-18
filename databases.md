@@ -1,3 +1,5 @@
+[Home](index.md) - [Code Review](code_review.md) - [Data Structures and Algorithms](algorithms_data_structures.md) - [Software Engineering and Design](software_design_engineering.md) - [Databases](databases.md)
+
 ## Databases
 
 This artifact is an android app for weight loss written in java using the android studio development environment during the Mobile Architecture and Programming class in the program. 
