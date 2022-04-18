@@ -2,9 +2,12 @@
 
 ## Algorithms and Data Structures
 
+### About
+
 This artifact is series of small programs used to showcase the benefits and efficiency of different data structures and search algorithms which were built during the Data Structures and Algorithms class in the program. 
 It showcases my skills both for using a low level programming language to create a data structure and to utilize these structure with various tree traversal methods.
 
+### The code
 
 ```
 //============================================================================
