@@ -1,5 +1,3 @@
-### Project 2
-
 ## Algorithms and Data Structures
 
 This artifact is series of small programs used to showcase the benefits and efficiency of different data structures and search algorithms which were built during the Data Structures and Algorithms class in the program. 
