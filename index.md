@@ -11,11 +11,11 @@ Data structures and algorithms, software engineering, database, and security wil
 
 As this self-assessment concludes, I will introduce what the rest of the ePortfolio has to offer. There will be three artifacts that represent the three foundations of computer science. Alongside these three artifacts will be a code review video on each artifact. Each artifact is then enhanced in some way.
 
-### [Data Structures and Algorithms](data_structures.md)
-This artifact is a simple C++ grading program that allows teachers to input a student’s grades into the program to get an average and grade letter. It is then enhanced by being recreated in Java form.
+### [Data Structures and Algorithms](algorithms_data_structures.md)
+This artifact is series of small programs used to showcase the benefits and efficiency of different data structures and search algorithms which were built during the Data Structures and Algorithms class in the program. It showcases my skills both for using a low level programming language to create a data structure and to utilize these structure with various tree traversal methods.
 
-### [Software Engineering and Design](softeng_design.md)
-This artifact is a C++ code creating a 3D cube and pyramid. This is a basic example of how objects are created in a virtual space. It is enhanced by adding animation to the shapes as they will spin in that virtual space.
+### [Software Engineering and Design](software_design_engineering.md)
+This artifact is a full stack application for an animal shelter using Jupyter, Python, and MongoDB which was built in Client Server Development class during program. It showcases my skills both for front and back-end development as well as how to connect the two using a python module. 
 
 ### [Databases](databases.md)
-This is a database created in a SQL live environment. It is enhanced by adding a table and modifying a table by removing a column.
+This artifact is weight loss written in java using the android studio development environment during the Mobile Architecture and Programming class in the program. It showcases my skills In using Android studio to design and implement the layers of an mobile application. This program includes a front end for the user to interact with, the backend database to store user data, and the driver in between.
